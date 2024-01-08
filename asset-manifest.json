@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jinro/static/css/main.1536b413.css",
+    "main.js": "/jinro/static/js/main.cd870c44.js",
+    "static/js/787.85989c07.chunk.js": "/jinro/static/js/787.85989c07.chunk.js",
+    "static/media/najinlo.svg": "/jinro/static/media/najinlo.9d9f94e255ed34652bfc.svg",
+    "static/media/MEME.svg": "/jinro/static/media/MEME.f2d891fbca8bcdf6561f.svg",
+    "static/media/point.png": "/jinro/static/media/point.e26a2a54bbf92fb0fdf4.png",
+    "static/media/Ruby.png": "/jinro/static/media/Ruby.c52a06ee6ddde5041a68.png",
+    "static/media/cup.png": "/jinro/static/media/cup.f6cddb37e5afa1eccb33.png",
+    "static/media/Weimg.svg": "/jinro/static/media/Weimg.c6ccb8953fa8d1ec01a7.svg",
+    "static/media/Howimg.svg": "/jinro/static/media/Howimg.37409adc378351f9800f.svg",
+    "static/media/you.svg": "/jinro/static/media/you.a85bd59e31bb9bb85a75.svg",
+    "index.html": "/jinro/index.html",
+    "main.1536b413.css.map": "/jinro/static/css/main.1536b413.css.map",
+    "main.cd870c44.js.map": "/jinro/static/js/main.cd870c44.js.map",
+    "787.85989c07.chunk.js.map": "/jinro/static/js/787.85989c07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1536b413.css",
+    "static/js/main.cd870c44.js"
+  ]
+}
